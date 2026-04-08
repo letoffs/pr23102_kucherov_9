@@ -16,3 +16,8 @@ G:\3 kurs\ПМ\PR23102_Kucherov_9\PR23102_Kucherov_9\obj\Debug\PR23102_Kucherov_
 G:\3 kurs\ПМ\PR23102_Kucherov_9\PR23102_Kucherov_9\bin\Debug\System.Data.SqlClient.dll
 G:\3 kurs\ПМ\PR23102_Kucherov_9\PR23102_Kucherov_9\bin\Debug\System.Data.SqlClient.xml
 G:\3 kurs\ПМ\PR23102_Kucherov_9\PR23102_Kucherov_9\obj\Debug\PR23102_.D58717A6.Up2Date
+G:\3 kurs\ПМ\PR23102_Kucherov_9\PR23102_Kucherov_9\obj\Debug\PR23102_Kucherov_9_Content.g.cs
+G:\3 kurs\ПМ\PR23102_Kucherov_9\PR23102_Kucherov_9\bin\Debug\EntityFramework.dll
+G:\3 kurs\ПМ\PR23102_Kucherov_9\PR23102_Kucherov_9\bin\Debug\EntityFramework.SqlServer.dll
+G:\3 kurs\ПМ\PR23102_Kucherov_9\PR23102_Kucherov_9\bin\Debug\EntityFramework.xml
+G:\3 kurs\ПМ\PR23102_Kucherov_9\PR23102_Kucherov_9\bin\Debug\EntityFramework.SqlServer.xml
